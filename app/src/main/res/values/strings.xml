@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice10</string>
+    <string name="hint">Напиши здесь заметку</string>
+    <string name="text">Конец</string>
+    <string name="button">Дальше</string>
+    <string name="name">Name</string>
+</resources>
